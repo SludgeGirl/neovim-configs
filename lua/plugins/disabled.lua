@@ -1,3 +1,16 @@
-return {
-  { "akinsho/bufferline.nvim", enabled = false },
-}
+return {}
+-- return {
+--   {
+--     "nvim-treesitter/nvim-treesitter",
+--     keys = {
+--       { "<C-Space>", false },
+--     },
+--     incremental_selection = {
+--       enable = false,
+--       keymaps = {
+--         init_selection = false,
+--         node_incremental = false,
+--       },
+--     },
+--   },
+-- }
