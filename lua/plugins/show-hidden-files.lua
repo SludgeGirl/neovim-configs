@@ -12,7 +12,7 @@ return {
             ".git",
             ".DS_Store",
             "thumbs.db",
-            "node_modules",
+            -- "node_modules",
           },
           hide_by_pattern = {
             "Test*",
